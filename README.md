@@ -26,17 +26,6 @@ The dataset used is a CSV file named `diabetes.csv` and contains the following c
 - `Age` : Age (in years)
 - `Outcome` : Presence or absence of diabetes (0: no, 1: yes)
 
-## Prerequisites
-
-- Python 3.x
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- scikit-learn
-- mlxtend
-- missingno
-
 ##  Overview of each of the imports :
 
 - Pandas: for Loading, cleaning, transforming, and analyzing structured data (e.g., CSV files).
