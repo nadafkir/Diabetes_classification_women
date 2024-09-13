@@ -10,27 +10,7 @@ whether or not the WOMEN patient is in the dataset have diabetes or not
 
 - Develop a classification model to predict diabetes in women.
 - Clean and preprocess data to enhance model accuracy.
-- Visualize results and evaluate model performance.
-
-### Columns:
-
-    Pregnancies : Number of times pregnant 
-    
-    Glucose : Plasma glucose concentration a 2 hours in an oral glucose tole
-    
-    BloodPressure : Diastolic blood pressure (mm Hg)
-    
-    SkinThikness : the measurement of how thick or thin the skin is
-    
-    Insulin : 2-Hour serum insulin ( mu U/ml)
-    
-    BMI : Body mass index ( weight in kg / pow(height in m, 2)
-    
-    DiabetesPedigreeFunction : Diabetes Pedigree Function
-    
-    Age : in (years)
-    
-    Outcome : (0 : True : she is   OR 1 : False : she is not)   
+- Visualize results and evaluate model performance.  
 
 ## Data
 
